@@ -1,4 +1,4 @@
-# docker-security-checker
+# docker-gosec
 
 [gosec](https://github.com/securego/gosec) - Golang Security Checker inspects source code for security problems by scanning the Go AST.
 
